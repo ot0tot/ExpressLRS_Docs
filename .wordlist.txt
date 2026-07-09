@@ -247,6 +247,7 @@ SMD
 SNR
 SPH
 SPI
+Schalonsus
 SPRacing
 SRXL
 SSID
