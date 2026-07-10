@@ -215,7 +215,7 @@ RDP
 retransmission
 RFMD
 RGB
-RQLY
+RQly
 RSNR
 RSS
 RSSI
